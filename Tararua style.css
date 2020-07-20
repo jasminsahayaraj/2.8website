@@ -1,40 +1,30 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <title>Tararua House</title>
+/****** heding style ******/
 h1 {
   text-align: center;
   color: Black;
-  Font-size: 24px;
-}
+  font-size: 40px;
+  }
 
-h2 {
-  text align: center;
-  color: black;
-  font-size: 24px;
-}
-
-h3 {
-  text-align: center;
-  color: black;
-  font-size: 18px;
+h2 { 
+text-align: center;
+  color: Black; 
+  font-size: 40px;
 }
 
 h4 {
   text-align: center;
   color: black;
-  Font-size: 16px;
 }
-
-/* Container holding the image and the text */
-.container {
-  position: relative;
+/******heading styles******/
+h3 {
   text-align: center;
-  color: black;
+ color: Black;
+  font-size: 40px;
 }
 
-/* Bottom left text */
-.bottom-left {
-  position: absolute;
-  bottom: 8px;
-  left: 16px;
+/******team photo******/
+img {
+  text-align: center;
+}
+
+
