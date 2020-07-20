@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Tararua House</title>
+h1 {
+  text-align: center;
+  color: Black;
+  Font-size: 32px;
+}
+
+h2 {
+  text align: left;
+  color: black;
+  font-size: 24px;
+}
+
+h3 {
+  text-align: center;
+  color: black;
+  font-size: 18px;
+}
+
+h4 {
+  text-align: center;
+  color: black;
+  Font-size: 16px;
+}
+
+}
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
