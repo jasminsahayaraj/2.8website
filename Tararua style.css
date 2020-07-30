@@ -28,4 +28,9 @@ img {
 }
 
 /******White house leader******/
-
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  Width: 50%;
+}
