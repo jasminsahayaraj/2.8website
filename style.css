@@ -1,9 +1,4 @@
-/****** heding style ******/
-h1 {
-  text-align: center;
-  color: Black;
-  font-size: 40px;
-  }
+/****** heding style *****/
 
 h2 { 
 text-align: center;
@@ -15,39 +10,14 @@ h4 {
   text-align: center;
   color: black;
 }
-/******heading styles******/
-h3 {
-  text-align: center;
- color: Black;
-  font-size: 40px;
-}
 
-/******team photo******/
+/****** houses*****/
 img {
   text-align: center;
+  diplay: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
 }
 
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333;
-}
-
-li {
-  float: left;
-}
-
-li a {
-  display: block;
-  color: Black;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-li a:hover {
-  background-color: #111;
-}
 

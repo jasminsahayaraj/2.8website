@@ -1,36 +1,31 @@
-/****** heding style ******/
-h1 {
+/****** Logos ******/
+body {
+  
+}
+w3-image{
+  align: center;
+  display: block;
+  margin-left:  auto;
+  margin-right: auto;
+  Width: 30%;
+  postion: absolute;   
+}
+
+/****** Main Heading ******/
+ h2 { 
   text-align: center;
   color: Black;
-  font-size: 40px;
-  }
-
-h2 { 
-  text-align: center;
-  color: Black; 
-  font-size: 40px;
+   font-size: 40%;
 }
 
 h4 {
   text-align: center;
   color: black;
 }
-/******heading styles******/
+
 h3 {
   text-align: center;
  color: Black;
   font-size: 40px;
 }
 
-/******team photo******/
-img {
-  text-align: center;
-}
-
-/******White house leader******/
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  Width: 50%;
-}
