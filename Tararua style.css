@@ -1,21 +1,15 @@
 /****** Logos ******/
-body {
-  
-}
-w3-image{
+w3-image {
   align: center;
   display: block;
   margin-left:  auto;
   margin-right: auto;
-  Width: 30%;
-  postion: absolute;   
+  width:40%;
 }
 
-/****** Main Heading ******/
- h2 { 
+style h2 { 
   text-align: center;
   color: Black;
-   font-size: 40%;
 }
 
 h4 {
