@@ -1,0 +1,30 @@
+/****** logos ******/
+img {
+  display: block;
+  margin-left:  auto;
+  margin-right: auto;
+}
+
+/****** images ******/
+img {
+  display: block;
+  margin-left:  auto;
+  margin-right: auto;
+}
+
+/****** headings ******/
+ h1 { 
+  text-align: center;
+  color: Black;
+}
+
+h2 {
+  text-align: center;
+  color: black;
+}
+
+h4 {
+  text-align: center;
+ color: Black;
+}
+

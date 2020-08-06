@@ -1,25 +1,31 @@
-/****** Logos ******/
-w3-image {
-  align: center;
+/****** logos ******/
+img {
   display: block;
   margin-left:  auto;
   margin-right: auto;
-  width:40%;
 }
 
-style h2 { 
+/****** images ******/
+img {
+  display: block;
+  margin-left:  auto;
+  margin-right: auto;
+}
+
+/****** headings ******/
+ h1 { 
   text-align: center;
   color: Black;
 }
 
-h4 {
+h2 {
   text-align: center;
   color: black;
 }
 
-h3 {
+h4 {
   text-align: center;
  color: Black;
-  font-size: 40px;
 }
+
 
