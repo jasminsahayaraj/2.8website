@@ -1,4 +1,4 @@
-/****** logos ******/
+/****** logos for all houses ******/
 img {
   display: block;
   margin-left:  auto;
@@ -15,20 +15,18 @@ img {
 /****** headings ******/
  h1 { 
   text-align: center;
-   font-family:Georgia;
+   font-family: georgia; 
   color: Black;
 }
 
 h2 {
   text-align: center;
-  font-family:Georgia;
+  font-family: georgia;
   color: black;
 }
 
 h4 {
   text-align: center;
-  font-family:Georgia;
+  font-family: georgia;
  color: Black;
 }
-
-
