@@ -1,35 +1,4 @@
-/****** heding style *****/
-
-h2 {
-  text-align: center;
-  font-family: georgia;
-  color: Black;
-  font-size: 40px;
-}
-
-h3 {
-  text-align: center;
-  font-family: georgia;
-  color: Black;
-}
-
-h4 {
-  text-align: center;
-  font-family: georgia;
-}
-
-/****** Purple team house photo *****/
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 /****** logos *****/
-* {
-  box-sizing: border-box;
-}
-
 /* Create three equal columns that floats next to each other */
 .column {
   float: left;
@@ -37,86 +6,53 @@ img {
   padding: 10px;
 }
 
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-/****** logos for all houses ******/
-img {
-  display: block;
-  margin-left:  auto;
-  margin-right: auto;
-}
-
-/****** images ******/
-img {
-  display: block;
-  margin-left:  auto;
-  margin-right: auto;
-}
-
-/****** Main heading *****/
-body {
-color: Black;
-}
-
-h1 { 
-  text-align: center;
-   font-family: georgia; 
-}
-
-/****** Heading *****/
-  body {
-color: Black;
-}
-
-h2 { 
-  text-align: center;
-   font-family: georgia; 
-}
-
-h4 {
+/****** heding style *****/
+h1 {
   text-align: center;
   font-family: georgia;
- color: Black;
-}
-
-/****** logos for all houses ******/
-img {
-  display: block;
-  margin-left:  auto;
-  margin-right: auto;
-}
-
-/****** images ******/
-img {
-  display: block;
-  margin-left:  auto;
-  margin-right: auto;
-}
-
-/****** Main heading *****/
- h1 { 
-  text-align: center;
-   font-family: georgia; 
   color: Black;
+  font-size: 45px;
 }
 
-/****** Heading *****/
 h2 {
   text-align: center;
   font-family: georgia;
-  color: black;
+  color: Black;
+  font-size: 38px;
+}
+
+h3 {
+  text-align: center;
+  font-family: georgia;
+  color: Black;
+  font-size: 30px;
 }
 
 h4 {
   text-align: center;
   font-family: georgia;
- color: Black;
+  color: Black;
+  font-size: 25px;
 }
 
+/****** logos *****/
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
+}
+/****** Purple group Photo *****/
+img {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  width: 80%;
+}
+
+/****** Navigation bar *****/
 ul {
   list-style-type: none;
   margin: 0;
